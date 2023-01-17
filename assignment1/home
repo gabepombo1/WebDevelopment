@@ -1,21 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
-
-        <title>
-
-            Electric Game Studios
-
-        </title>
-
         <meta charset = "UTF-8">
         <meta name="Site Description:" content="Electric Game Studios!!!!!!">
-
-    </head>
+        <title>Electric Game Studios</title>
+    </head>    
     <body>
         <h1>
             Haywire
         </h1>
+        <img src="https://static.jam.host/raw/856/d4/z/55639.png" alt = "Main Menu Screenshot"><br>
+        <img src="../images/gameplay.png" alt="GameplayImage" style ="width: auto;"><br>
         <h2>
             Description:
             <p>
@@ -36,13 +31,10 @@
                 The camera does not move. Turning off Adblock might help with the game not playing.
             </p>
         </h2>
-        <h1>Other Ludum Dare Jam Games</h1>
-            <a> href="https://ldjam.com/" target="_blank">Other Ludum Dare Games</a>
+        <h3><a href="https://ldjam.com/">Other Ludum Dare Games</a></h1>
             <dl>
-                <dt>Current 1st Place:</dt>
+                <dt>Current 1st Place:<a href="https://ldjam.com/events/ludum-dare/52/grow-golf"></dt>
                 <dd>This is the current first place game for the 53rd game jam of Ludum Dare</dd>
-                <dt>Current 2nd Place:</dt>
-                <dd>This is the current 2nd place game for the 53rd game jam of Ludum Dare</dd>
             </dl>
     </body>
 </html>
