@@ -8,8 +8,13 @@
     <header id="TopHeader"> Electric Game Studios</header>    
     <body>
         <h1>
-            Haywire
+            Haywire Gameplay
         </h1>
+
+        <video width="930" height="520" controls>
+            <source src="../videos/gameplayvideo.mp4" type="video/mp4">
+        </video>
+
         <img src="https://static.jam.host/raw/856/d4/z/55639.png" alt = "Main Menu Screenshot"><br>
         <img src="../images/gameplay.png" alt="GameplayImage" style ="width: auto;"><br>
         <h2>
@@ -34,9 +39,11 @@
         </h2>
         <h3><a href="https://ldjam.com/">Other Ludum Dare Games</a></h1>
             <dl>
-                <dt>Current 1st Place:<a href="https://ldjam.com/events/ludum-dare/52/grow-golf"></dt>
+                <dt><a href="https://ldjam.com/events/ludum-dare/52/grow-golf">Current 1st Place:</a></dt>
                 <dd>This is the current first place game for the 53rd game jam of Ludum Dare</dd>
             </dl>
     </body>
-    <h6><a href="#TopHeader">Top Of Page</a></h6>
+    <body>
+        <h6><a href="#TopHeader">Top Of Page</a></h6>
+    </body>
 </html>
