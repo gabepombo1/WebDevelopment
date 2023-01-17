@@ -4,7 +4,9 @@
         <meta charset = "UTF-8">
         <meta name="Site Description:" content="Electric Game Studios!!!!!!">
         <title>Electric Game Studios</title>
-    </head>    
+    </head>
+    <header id="TopHeader"> Electric Game Studios
+    </header>    
     <body>
         <h1>
             Haywire
@@ -37,4 +39,5 @@
                 <dd>This is the current first place game for the 53rd game jam of Ludum Dare</dd>
             </dl>
     </body>
+    <h6>Top of Page <ahref="#TopHeader"</a></h6>
 </html>
