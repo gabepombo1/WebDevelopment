@@ -8,7 +8,7 @@
     <header id="TopHeader"> Electric Game Studios</header>    
     <body>
         <h1>
-            Haywire Gameplay
+            <a href="https://ldjam.com/events/ludum-dare/52/haywire">Haywire</a>
         </h1>
 
         <video width="930" height="520" controls>
