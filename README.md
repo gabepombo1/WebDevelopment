@@ -1,5 +1,5 @@
 # WebDevelopment
-Website Design Idea
+Website Design
 
 I want to showcase a game on a webpage.
 
